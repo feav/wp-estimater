@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "Montserrat", Montserrat;
+    src: url(../fonts/Montserrat.woff2) format("truetype");
+}
+
+.wp-estimater--questions {
+    width: 60%;
+    display: inline-block;
+}
+.wp-estimater--results {
+    width: 35%;
+    margin-left: 2%;
+    display: inline-block;
+
+}
+.wp-estimater--results,.wp-estimater--questions{
+    font-family: Montserrat !important;
+}
+.container.wp-estimater--calculator > .row {
+    display: flex;
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-value span {
+    font-weight: bold;
+    color: black;
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button{
+	color:#0287b5;
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-wp-estimater- {
+    background-color: #0287b5;
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-title {
+    position: relative;
+}
+.wp-estimater--calculator .wp-estimater--questions .question-question p img{
+    width: 20px;
+    margin-bottom: -4px;
+
+}
+.tooltip{
+	display: none;
+}
+
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 1px solid #d3d3d3;
+    background: linear-gradient(147deg, #0095c8, #0287b5), linear-gradient(to bottom, #ffffff, #ffffff) !important;
+    border-radius: 100%;
+    border-radius: 100%;
+    width: 25px !important;
+    height: 25px !important;
+    top: -12px !important;
+}
+.ui-widget.ui-widget-content {
+    border: 1px solid #e2e2e2 !important;
+}
+.ui-slider-horizontal {
+    height: 0.3em !important;
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.less {
+    margin-bottom: 0px !important;
+}
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.more {
+    bottom: 33% !important;
+    font-size: 35px !important;
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-wp-estimater- {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.wp-estimater--calculator .wp-estimater--results .results-wp-estimater- p.value {
+    margin: 5px;
+}
+.wp-estimater--calculator .wp-estimater--results .results-num_clicks {
+    padding-top: 35px;
+}

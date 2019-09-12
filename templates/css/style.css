@@ -1,0 +1,688 @@
+.wp-estimater--hero {
+    padding-top: 30px;
+    padding-bottom: 110px;
+    text-align: center
+}
+
+.wp-estimater--hero .header-logo {
+    height: 48px;
+    width: 48px;
+    display: block;
+    margin-bottom: 90px
+}
+
+.wp-estimater--hero h2 {
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700
+}
+
+@media (max-width:400px) {
+    .wp-estimater--hero h2 {
+        font-size: 35px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--hero h2 {
+        font-size: 35px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--hero h2 {
+        font-size: 35px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .wp-estimater--hero h2 {
+        font-size: 35px
+    }
+}
+
+.wp-estimater--hero h3 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 300;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 30px
+}
+
+@media (max-width:400px) {
+    .wp-estimater--hero h3 {
+        font-size: 18px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--hero h3 {
+        font-size: 18px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--hero h3 {
+        font-size: 18px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .wp-estimater--hero h3 {
+        font-size: 18px
+    }
+}
+
+.wp-estimater--hero button img {
+    padding-bottom: 6px;
+    padding-left: 16px
+}
+
+.wp-estimater--info {
+    padding-top: 100px;
+    padding-bottom: 100px
+}
+
+.wp-estimater--info h2 {
+    margin: 0;
+    color: #111616;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center
+}
+
+.wp-estimater--info hr {
+    border: none;
+    height: 4px;
+    width: 77px;
+    color: #ee3660;
+    background-color: #ee3660
+}
+
+@media (max-width:400px) {
+    .wp-estimater--info hr {
+        width: 58px;
+        margin-top: 15px;
+        margin-bottom: 15px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--info hr {
+        width: 58px;
+        margin-top: 15px;
+        margin-bottom: 15px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--info hr {
+        width: 58px;
+        margin-top: 15px;
+        margin-bottom: 15px
+    }
+}
+
+.wp-estimater--info h3 {
+    margin: 0;
+    color: #787878;
+    font-weight: 300;
+    font-size: 19px;
+    text-align: center
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator {
+        background-color: #e8e8e8;
+        width: 100%;
+        margin: 0;
+        max-width: 100%
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator {
+        background-color: #e8e8e8;
+        width: 100%;
+        margin: 0;
+        max-width: 100%
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator {
+        background-color: #e8e8e8;
+        width: 100%;
+        margin: 0;
+        max-width: 100%
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .questions {
+    background-color: #e8e8e8;
+    padding: 50px;
+    padding-top: 40px;
+    padding-bottom: 0;
+    border-radius: 70px
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .wp-estimater--calculator .wp-estimater--questions .questions {
+        margin-bottom: 50px
+    }
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .questions {
+        padding-top: 50px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .questions {
+        padding-top: 50px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0
+    }
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .wp-estimater--calculator .wp-estimater--questions .question {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-question {
+        text-align: center
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-question {
+        text-align: center
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-question {
+        text-align: center
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-question p {
+    margin: 0;
+    font-size: 21px;
+    font-weight: 600;
+    color: #111616;
+    position: relative;
+    display: inline-block
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-question p img {
+    padding-bottom: 5px
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-question p span.tooltip {
+    position: absolute;
+    width: 270px;
+    background-color: #303031;
+    color: #fff;
+    bottom: 40px;
+    right: 0;
+    margin-right: -123px;
+    padding: 20px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 300;
+    z-index: -1
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-question p span.tooltip.show {
+    z-index: 2
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-question p span.tooltip:after {
+    background: url(../templates/img/triangle.png) no-repeat;
+    content: '';
+    display: block;
+    width: 18px;
+    height: 9px;
+    position: absolute;
+    bottom: -9px;
+    right: 50%;
+    margin-right: -9px
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-question p.details {
+    font-size: 14px;
+    font-weight: 300
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-value {
+    padding: 0
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-value {
+        text-align: center;
+        padding-top: 10px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-value {
+        text-align: center;
+        padding-top: 10px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-value {
+        text-align: center;
+        padding-top: 10px
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-value span {
+    font-size: 25px;
+    font-weight: 700;
+    float: right
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-value span {
+        float: none
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-value span {
+        float: none
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-value span {
+        float: none
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-detail {
+    color: #111616;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 15px;
+    padding-top: 2px
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider {
+    padding-top: 15px;
+    padding-bottom: 50px
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider {
+        padding-top: 0
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider {
+        padding-top: 0
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider {
+        padding-top: 0
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box {
+    padding: 15px;
+    border-radius: 25px;
+    background-color: #fff;
+    position: relative;
+    z-index: 2
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button {
+    color: #e92f61;
+    font-size: 40px;
+    line-height: 0;
+    cursor: pointer;
+    position: absolute;
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -webkit-touch-callout: none;
+    -o-user-select: none;
+    -moz-user-select: none
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.less {
+    left: 0;
+    bottom: 50%;
+    margin-bottom: 4px;
+    margin-left: 20px;
+    font-size: 50px
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.less {
+        margin-left: 10px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.less {
+        margin-left: 10px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.less {
+        margin-left: 10px
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.more {
+    right: 0;
+    bottom: 50%;
+    margin-bottom: 3px;
+    margin-right: 20px
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.more {
+        margin-right: 10px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.more {
+        margin-right: 10px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .input-box .budget-button.more {
+        margin-right: 10px
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+    width: 500px;
+    margin: 0 auto;
+    display: block
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 370px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 470px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 65vw
+    }
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 50vw
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 50vw
+    }
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 60vw
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal {
+        width: 60vw
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .slider.slider-horizontal .slider-selection {
+    box-shadow: none
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .slider-track {
+    height: 7px;
+    background: #e8e8e8
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .slider-selection {
+    background: #e8e8e8
+}
+
+.wp-estimater--calculator .wp-estimater--questions .question-slider .slider-handle {
+    background-image: linear-gradient(to bottom right, #f496af, #e93062)
+}
+
+.wp-estimater--calculator .wp-estimater--calculatebtn {
+    padding-bottom: 50px
+}
+
+.wp-estimater--calculator .wp-estimater--results .results {
+    background-color: #e8e8e8;
+    border-radius: 70px
+}
+
+@media (max-width:400px) {
+    .wp-estimater--calculator .wp-estimater--results .results {
+        background-color: #fff;
+        margin-bottom: 50px;
+        margin-left: 15px;
+        margin-right: 15px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--calculator .wp-estimater--results .results {
+        background-color: #fff;
+        margin-bottom: 50px;
+        margin-left: 15px;
+        margin-right: 15px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--calculator .wp-estimater--results .results {
+        background-color: #fff;
+        margin-bottom: 50px;
+        margin-left: 15px;
+        margin-right: 15px
+    }
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-title {
+    background-color: #303031;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    padding-top: 30px;
+    padding-bottom: 35px
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-title:after {
+    background: url(../../templates/img/arrow_down.png) no-repeat;
+    content: '';
+    display: block;
+    height: 46px;
+    width: 46px;
+    position: absolute;
+    bottom: -18px;
+    right: 50%;
+    margin-right: -23px
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-title p {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-result {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #d3d3d3
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-result p.title {
+    margin: 0;
+    font-size: 18px;
+    color: #111616
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-result p.value {
+    margin: 0;
+    color: #111616;
+    font-size: 22px;
+    font-weight: 700
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-num_clicks {
+    padding-top: 40px
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-est_profit {
+    border: none
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-wp-estimater- {
+    background-color: #e92e60;
+    border-bottom-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-wp-estimater- p.title {
+    margin: 0;
+    color: #fff;
+    font-size: 18px
+}
+
+.wp-estimater--calculator .wp-estimater--results .results-wp-estimater- p.value {
+    margin: 0;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700
+}
+
+.wp-estimater--cta {
+    padding-top: 100px;
+    padding-bottom: 115px
+}
+
+@media (max-width:400px) {
+    .wp-estimater--cta {
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .wp-estimater--cta {
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .wp-estimater--cta {
+        padding-top: 50px;
+        padding-bottom: 50px
+    }
+}
+
+.wp-estimater--cta .wp-estimater--ctacta {
+    padding: 0
+}
+
+.wp-estimater--cta .wp-estimater--ctacta button img {
+    padding-left: 5px;
+    padding-bottom: 5px
+}
+
+.legal {
+    padding: 50px 0
+}
+
+@media (max-width:400px) {
+    .legal {
+        padding: 25px 0
+    }
+}
+
+@media (min-width:401px) and (max-width:575px) {
+    .legal {
+        padding: 25px 0
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .legal {
+        padding: 25px 0
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .legal {
+        padding: 25px 0
+    }
+}
+
+.legal p {
+    color: #787878;
+    font-size: 10px
+}
+
+
